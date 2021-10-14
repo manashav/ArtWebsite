@@ -1,0 +1,66 @@
+h1
+{
+    margin: auto;
+    width: 60%;
+    padding: 10px;
+    text-align:center;
+	font-family: Copperplate, 'Copperplate Gothic Light', fantasy;
+	font-size: 50px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: bold;
+	line-height: 26.4px;
+}
+li
+{
+	display: inline;
+}
+a:link, a:visited 
+{
+    background-color: #f44336;
+    color: white;
+    padding: 14px 25px;
+    text-align: center;	
+    text-decoration: none;
+    display: inline-block;
+}
+
+
+a:hover, a:active 
+{
+    background-color: purple;
+	
+}
+ul
+{
+	text-align: center;
+}
+
+html 
+{ 
+	background: url(images/abstract.jpg) no-repeat center center fixed; 
+	background-size: cover;
+}
+footer
+{
+	position: absolute;
+	text-align: right; 
+	right: 0;
+	left: 0;
+	padding: 1rem;
+	bottom: 5px;
+	font-size: 18px;
+	
+}
+
+ 
+
+
+  
+ 
+  	
+
+
+
+
+
